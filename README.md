@@ -1,4 +1,5 @@
-Notes on Wesleyan course on Modernity and Postmodernity via coursera by Michael S. Roth. Full course available here: https://www.coursera.org/learn/modern-postmodern-1 
+@title The Modern and the Postmodern
+Notes on Wesleyan course on Modernity and Postmodernity via coursera by Michael S. Roth. Full course available here: [[https://www.coursera.org/learn/modern-postmodern-1 ]]
 
 The course is more or less structured along key figures (not unlike Barzun's dawn to decadence). The following is only a reminder of key ideas, salient points for each.
 
@@ -17,7 +18,7 @@ Kant intensely interested in Rousseau. Rousseau is the bad conscience of the enl
 
 The arts and sciences cover up oppression because they create new needs. What yoke could be imposed on man who need nothing?
 
-arts and science → luxury → economy → inequality → yoke
+The trap of the enlightment is this : elightment → luxury → inequality → yoke
 
 It's not that he doesn't want people to learn. It is pointing out that the project of the enlightment is promoting the key ingredient of the slippery slope of enlightment: inequality.
 
@@ -25,4 +26,10 @@ His solution is mainly to bring the most enlightened to power. That said, in tru
 
 As you acquire luxuries you become more vulnerable to pain. In the society where you act for others and in immitation of higher ones, men suffer for the loss of something they have no pleasure in possesing.
 
-The state becomes the guarantor of the state of inequality.
+In the discourse of the creation of inequality between mankind he discusses how the state becomes the guarantor of the state of inequality. The rich benefit from getting the poor to defend property.
+
+elightment → luxury → inequality → yoke. Also self-imposed and self-demanded yoke as investment in feelings towards posessions tie us to them
+
+
+
+
