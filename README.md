@@ -1,5 +1,3 @@
-# The modern and the post-modern
-
 Notes on Wesleyan course on Modernity and Postmodernity via coursera by Michael S. Roth. Full course available here: https://www.coursera.org/learn/modern-postmodern-1 
 
 The course is more or less structured along key figures (not unlike Barzun's dawn to decadence). The following is only a reminder of key ideas, salient points for each.
