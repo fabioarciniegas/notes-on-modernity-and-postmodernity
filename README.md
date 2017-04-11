@@ -26,3 +26,5 @@ It's not that he doesn't want people to learn. It is pointing out that the proje
 His solution is mainly to bring the most enlightened to power. That said, in truth his contribution is mostly the diagnosis.
 
 As you acquire luxuries you become more vulnerable to pain. In the society where you act for others and in immitation of higher ones, men suffer for the loss of something they have no pleasure in possesing.
+
+The state becomes the guarantor of the state of inequality.
