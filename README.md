@@ -1,4 +1,4 @@
-Notes on Wesleyan course on Modernity and Postmodernity via coursera by Michael S. Roth. Full course available here: [[https://www.coursera.org/learn/modern-postmodern-1 ]]
+Notes on Wesleyan course on Modernity and Postmodernity via coursera by Michael S. Roth. Full course available here: [[https://www.coursera.org/learn/modern-postmodern-1]]
 -Fabio Arciniegas
 
 The course is more or less structured along key figures (not unlike Barzun's dawn to decadence). The following is meant as a reminder of the key ponts.
@@ -166,7 +166,7 @@ Of course much more is there to say about Nietzsche but for the purpose of the c
 
 # Paintings
 
-In a rather pleasant coda, the class ends with a small selection of paintings rather than literary authors recaping the transition from the enlightenment to revolution to dissilusion to anti-foundationalism.
+In a rather pleasant coda, the class ends with a small selection of paintings rather than literary authors recaping the transition from the enlightenment to revolution to disillusion to anti-foundationalism.
 
 Delacroix as opposed to Ingres (contrast their napoleons). More Delacroix with the "Death of Sardanapalus," the cultivation of intensity.
 
