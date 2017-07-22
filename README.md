@@ -1,8 +1,9 @@
 Notes on Wesleyan course on Modernity and Postmodernity via coursera by Michael S. Roth. Full course available here: [[https://www.coursera.org/learn/modern-postmodern-1 ]]
+-Fabio Arciniegas
 
-The course is more or less structured along key figures (not unlike Barzun's dawn to decadence). The following is only a reminder of key ideas, salient points for each.
+The course is more or less structured along key figures (not unlike Barzun's dawn to decadence). The following is meant as a reminder of the key ponts.
 
-# Enlightment
+# Enlightment (week 1)
 
 ## Kant
 
@@ -39,7 +40,7 @@ It is important to note Rousseau never used the term "noble savage," in his disc
 Voltaire mocks it (and perhaps starts the noble savage misunderstanding), Roberspierre and the radicals of the jacobins take Rousseau as a banner and read it as a banner for equality. Torqueville is connected in the sense that he underlined the tension between freedom and equality.
 
 
-# Englightment to revolution
+# Englightment to revolution (week 2)
 
 ## Hegel
 
@@ -101,13 +102,78 @@ Marx says "Liberty, Equality and Fraternity" really means "infantry, cavalry, ar
 
 *After the 1852 dissilussion his really real is not class struggle but look at the economic laws beneath the class struggle. The project of capital begins.*
 
-"
+# Modernism and Art for Art's sake (week 3)
 
+## Flaubert (1821-1880)
 
+The dissilussion after the revolution hits not just Marx. People like Flaubert also dissilussioned answer: retreat to art.
 
+If you have the capacity and talent leave the politics and business to lesser men, and do art. That's the "really real" for Flaubert. But that doesn't mean Flaubert is a romantic in the sense of indulging on emotion. In fact Madame Bovary is an indictment of that drunkenness of romantic cliche and banality and its consequences as its images can never be satisfied.
 
+When people think they are going beyond the commonplace they do so with the most common vehicles. The cliche is the sign of stupidity. 
 
+Romantics value authenticity, expression of the soul, color, emotion, turbulence. Flaubert knows it perfectly but can tell where it leads (Mdme Bovary sort of creatures) so he rejects it and makes cautionary tales about it. In short:
 
+Flaubert is to romanticism what Roussau is to enlightment. 
 
+## Utilitarianism and Romanticism
 
+The roots of the utilitarian aspect of english enlightment goes back to Locke and the consent of the governed. A measure of freedom is sacrificed for security. The social contract.
 
+Jeremy Bentham, the proper father of utilitarianism (1748-1842) wants to get to a calculus of benefit and pleasure that makes sense rationally. He claims "Antiquity is no reason"  meaning the argument against something like torture needs to be logical and based on the consideration of long run consequences rather than based on an underlying moral superstition or precedent.
+
+The "calculus of pleasures" presents many problems including *whose* pleasure and *which* pleasures are valued. Revolt against utilitarianism (and in a sense against enlightment itself) comes from the Romantics.
+
+Woodsworth (1770-1850) and Coleridge (1772-1834) typify English romanticism. Appeal to community, nature, religiion.
+
+John Stuart Mill, prodigy and living prooof of the limits of utilitarianism himself turn to Coleridge to understand his melancholy and depression. Develops philosophy combining utilitarianism and calculation and *organic community* (including religion) and experience. He is the one responsible for the famous idea of freedom as far as not infringing upon other's. 
+
+John Stuart Mill is the background to Darwin.
+
+## Darwin
+
+Genealogy replacing metaphysics. Much has been said about darwin and the Beagle and the origin of the species in 1859. Everyone liked it and seemed to adapt to it (The best book I know on the repercussions of Darwin at the time is the prologue of Back to Methuselah by GBS. Check that).
+
+Biogeography, Paleontology, Embriology, Morphology are the sources of evidence but the key of Darwin/Evolution for the narrative of the modern to the postmodern here is this: humans are taken out of the pedestal 
+  - Humans are not the ultimate goal. There is no natural essence of the species, no plan
+  - Intelligence is a byproduct of evolution, not a guiding force 
+
+# From struggle to intensity (week 3)
+
+## Boudelaire 
+
+From Dissection (Flaubert) we go to Permeation (Baudelaire). Plunging into the ugly world.
+
+Baudelaire's (step)father focus of hatred. The story from 1848 of "let's kill the general Opique" (is representative of this but also of the poetic sensibility and disdain of Baudelaire. They end up not killing Opique but instead Baudelaire shoots a clock.
+
+In a way Boudelaire oscillates between the Dandy, an aesthetization of the everyday life, and the *Flaneur* a stroller a wanderer sort of bohemian vagabond open to the suggestion of the big city.
+
+In 1851 the Haussmanization of Paris is underway (1853-1870) and this is reflected in Baudelaire's poetry as well. 
+
+Intensity replacing conventionality is perfectly exemplified in Paris Spleen. What at first is arresting grandiosity by the end turns into clash of previously unseen classes connected now by the boulevard.
+
+## Nietzsche
+
+No foundation. No ideal. God is dead.
+
+Nietszche is the anti modern modern as rousseau is the anti-elightnement enlightened.
+
+By 1870 people are happy and nationalistic and Nietzsche is appaled. Cultural decline. How much blood and horror make the good things.
+
+There are not values in themselves. Nietzsche embarks on dissection of morality.
+
+Of course much more is there to say about Nietzsche but for the purpose of the class the point is Nietzsche as the breaking point of the modern, anti foundationalism in bloom. No "really real."
+
+# Paintings
+
+In a rather pleasant coda, the class ends with a small selection of paintings rather than literary authors recaping the transition from the enlightenment to revolution to dissilusion to anti-foundationalism.
+
+Delacroix as opposed to Ingres (contrast their napoleons). More Delacroix with the "Death of Sardanapalus," the cultivation of intensity.
+
+Courbet ( a favorite of Baudelaire's) as art for art's sake and eroticism. Le sommeil (the sleepers), L'origin du monde (vagina), and  also the ordinary beauty sublimated for its own sake without royalty,etc. exemplified by the Burial at Ornans
+
+Manet and the famous dejeuner sur l'herbre not just as moral challenge but intellectual game calling attention at the fact that it is a painting.
+ 
+--
+
+Fabio Arciniegas A. July 21, 2017 (22:54:53) 
